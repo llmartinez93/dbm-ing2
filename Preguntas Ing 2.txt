@@ -1,0 +1,35 @@
+github - subir el resumen de la entrevista a la wiki
+
+
+Tiene que ser una aplicacion de escritorio o una pagina web?
+
+Que necesitas que haga el sistema?
+pagina que aloje turistas. alojarse en una casa para conocer cultura. todo a traves del sitio. couchinn.tumblr.com pass:ingenieria.software. bajar logo para programa.
+
+Para que tipo de publico esta orientado el sitio?
+todo tipo de publico
+Como se organizan los visitantes? necesita que se registren? VERIFICACION (EJ trjeta)
+registrarse. nombre, ape, nacimiento, telefono, email(nombre usuario), clave. Esto rodos los usuarios. Tiene que tener usuario premium, con un costo asociado, poniendo la tarjeta de credito.Usuario premiun le aparece en el listado una foto de hospedaje. Usuarios comunes le aparece en el listado logo de la empresa.
+cuenta con algun sistema de reservas?
+
+Como hace un usuario para publicar su casa? Completa descripcion? sube fotos?
+Registrarse. logearse. cargar hospedaje (hospedaje tiene que ser palabra couch). un usuario puede publicar y alquilar a la vez.
+Agregar un couch: titulo, tipo (casa pieza cama), descripcion, capacidad, foto, ciudad, ver detalle de couch, puntaje (de 1 a 5) promedio de todos los que puntuaron ese couch y comentarios de cada puntuacion. cuando se da de alta se puede reservar.
+Se puede puntuar los couch. comentar.
+
+Como se va a manejar el sistema de pagos en caso de que necesite? tarjeta, efectivo, etc? Ventajas para clientes habituales?
+Solamente con tarjeta de credito.
+
+
+Necesita un buscador dentro de su sitio? Buscar contenido a traves de distinto filtros?
+
+
+criterio de busqueda: titulo, descrip, tipo de hospedaje, lugar ciudad, capacidad, fecha de disponibilidad (dos fechas).
+Criterio de busqueda anidados.
+resultado de la busqueda muestre el filtro aplicado en la busqueda.
+
+
+Un usuario puede modificar su perfil, sus datos.
+
+Se maneja por comentarios, son chat.
+
